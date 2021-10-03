@@ -3,14 +3,14 @@
             "id": 1,
             "img": "https://mabellebox.vn/wp-content/uploads/2021/04/eiphotica.4-433x516.jpg",
             "name": "NƯỚC HOA NỮ EUPHOTICA BY BM 25ML",
-            "name_vie": "nuoc hoa nu euphotica by bm 25ml",
             "price": 399000,
             "type": "blissberry",
             "thanhphan": "Alcohol, Fragrance, Water, Grasse, 06130",
             "hdsd": "Giữ cách thân khoảng 8 cm và xịt lên cơ thể. Lưu ý: Dễ cháy. Không được xịt vào mắt. Không để nơi có nhiệt độ cao. Tránh ánh sáng trực tiếp. Để ngoài tầm tay trẻ em",
             "noisx": "Pháp",
             "quantity": 1,
-            "total": 0
+            "total": 0,
+            "name_vie": "nuoc hoa nu euphotica by bm 25ml"
         },
         {
             "id": 2,
@@ -23,7 +23,7 @@
             "noisx": "Pháp",
             "quantity": 1,
             "total": 0,
-            "name_vie": "nuoc hoa nu beaumonde by bm 25ml",
+            "name_vie": "nuoc hoa nu beaumonde by bm 25ml"
         },
         {
             "id": 3,
@@ -36,7 +36,7 @@
             "noisx": "Pháp",
             "quantity": 1,
             "total": 0,
-            "name_vie": "nuoc hoa nu bamboo by bm 25ml",
+            "name_vie": "nuoc hoa nu bamboo by bm 25ml"
         },
         {
             "id": 4,
@@ -49,7 +49,7 @@
             "noisx": "Pháp",
             "quantity": 1,
             "total": 0,
-            "name_vie": "nuoc hoa NAM GENTLEMENT by bm 25ml",
+            "name_vie": "nuoc hoa NAM GENTLEMENT by bm 25ml"
         },
         {
             "id": 5,
@@ -62,7 +62,7 @@
             "noisx": "Pháp",
             "quantity": 1,
             "total": 0,
-            "name_vie": "dung dich ve sinh phu nu blissberry",
+            "name_vie": "dung dich ve sinh phu nu blissberry"
         },
         {
             "id": 6,
@@ -75,20 +75,20 @@
             "noisx": "Pháp",
             "quantity": 1,
             "total": 0,
-            "name_vie": "UNTITLED LIPSTICK COLLECTION",
+            "name_vie": "UNTITLED LIPSTICK COLLECTION"
         },
         {
             "id": 7,
             "img": "https://mabellebox.vn/wp-content/uploads/2020/02/poison-apple-02-937x1113.png",
             "name": "POISON APPLE",
-            "price": 280000 ,
+            "price": 280000,
             "type": "untitled",
             "thanhphan": "Alcohol, Fragrance, Water, Grasse, 06130",
             "hdsd": "Giữ cách thân khoảng 8 cm và xịt lên cơ thể. Lưu ý: Dễ cháy. Không được xịt vào mắt. Không để nơi có nhiệt độ cao. Tránh ánh sáng trực tiếp. Để ngoài tầm tay trẻ em",
             "noisx": "Pháp",
             "quantity": 1,
             "total": 0,
-            "name_vie": "POISON APPLE",
+            "name_vie": "POISON APPLE"
         },
         {
             "id": 8,
@@ -101,7 +101,7 @@
             "noisx": "Pháp",
             "quantity": 1,
             "total": 0,
-            "name_vie": "CATWALK",
+            "name_vie": "CATWALK"
         },
         {
             "id": 9,
@@ -114,7 +114,7 @@
             "noisx": "Pháp",
             "quantity": 1,
             "total": 0,
-            "name_vie": "DANCE PARTY",
+            "name_vie": "DANCE PARTY"
         }
     ]
 }
